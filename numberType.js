@@ -12,7 +12,7 @@ function checkNumberType(number) {
 }
 
 // Declare and initialize the variable
-let num = -5;
+let num = -9;
 
 // Call the function and print the result
 console.log(checkNumberType(num));

@@ -10,7 +10,7 @@ function isOddOrEven(number) {
 }
 
 // Declare and initialize the variable
-let num = 7;
+let num = 10;
 
 // Call the function and print the result
 console.log(isOddOrEven(num));
