@@ -3,7 +3,7 @@ const browserVersion = "Chrome";
 
 function getBrowserVersion() {
 
-    if (browserVersion === "Chrome") {
+    if (browserVersion == "Chrome") {
 
         // Local variable using var
         var browserVersion = "Firefox";
