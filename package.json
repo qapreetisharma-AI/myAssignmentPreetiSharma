@@ -1,0 +1,23 @@
+{
+  "name": "myassignmentpreetisharma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qapreetisharma-AI/myAssignmentPreetiSharma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/qapreetisharma-AI/myAssignmentPreetiSharma/issues"
+  },
+  "homepage": "https://github.com/qapreetisharma-AI/myAssignmentPreetiSharma#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
